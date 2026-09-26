@@ -1,0 +1,14 @@
+{
+  "python.defaultInterpreterPath": "${workspaceFolder}/../venv/Scripts/python.exe",
+  "python.analysis.extraPaths": [
+    "${workspaceFolder}/../venv/Lib/site-packages",
+    "${workspaceFolder}",
+    "${workspaceFolder}/apps"
+  ],
+  "python.autoComplete.extraPaths": [
+    "${workspaceFolder}/../venv/Lib/site-packages",
+    "${workspaceFolder}",
+    "${workspaceFolder}/apps"
+  ],
+  "python.terminal.activateEnvironment": true
+}
